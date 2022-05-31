@@ -1,0 +1,1 @@
+INSERT INTO producto(nombre, descripcion, cantidad, precio, peso) VALUES ('Pan', 'Dulce', 12, 20, 32)
